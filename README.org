@@ -1,0 +1,10 @@
+* cl-hamt
+
+Dictionary and set data structures using hash array-mapped tries (HAMT)
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/danshapero/cl-hamt.git   |
+| commit  | 7a99eaa  |
+| systems | cl-hamt |
+|---------+-------------------------------------------|
+
